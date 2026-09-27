@@ -53,13 +53,7 @@ rss_country_map = {
                 "https://www.google.com/alerts/feeds/09319502742519693922/11207419750880160977": "All World",
 }
 
-API_KEY = "AIzaSyCyQzdgM7kLZRgy0HKuZFaoM55IhZwVgTE"
-SEARCH_ENGINE_ID = "c55ce9e630f0f4e4e"
-TELEGRAM_BOT_TOKEN = "8184679748:AAF8CAYqFgaGcbqffZxhO2eEb0n6eaASKe4"
-TELEGRAM_CHAT_ID = "-1002548211860"
-POSTED_NEWS_FILE = "ai-news_posted.json"
-# 🔗 כתובת ה-Webhook של Microsoft Teams
-TEAMS_WEBHOOK_URL = ""
+
 
 
 
